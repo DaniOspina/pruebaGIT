@@ -1,2 +1,2 @@
 :
-Hola, este es mi README
+README
